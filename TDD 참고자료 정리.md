@@ -5,7 +5,7 @@
 ### 자바스크립트 TDD
 
 1. [도전! JavaScript TDD – 1. 시작](http://huns.me/development/716)
-    - 가장 먼저 문제를 명세로 정의하고, 명세로 정의한 내용을 테스트 코드로 표현한다. 그리고 그 문제를 풀어내는 코드를 구현하는 것*
+    - 가장 먼저 문제를 명세로 정의하고, 명세로 정의한 내용을 테스트 코드로 표현한다. 그리고 그 문제를 풀어내는 코드를 구현하는 것
     - TDD의 테스트 명세는 개발자 관점이 아닌, 사용자 관점에서 작성
 2. [도전! JavaScript TDD – 2. TDD 리듬](http://huns.me/development/823)
     - 사이드 이펙트를 만들었을 경우 원인을 잘 모르겠다면 일단 코드를 테스트 통과 가능한 이전 상태로 되돌려놓고 문제를 다시 풀어가는 게 좋다.
@@ -18,8 +18,10 @@
 ### 안드로이드 TDD 
 
 1. [Android Studio에서 Unit Testing 적용하기 1](https://davidhyk.github.io/blog/applying-unit-testing-on-android-studio-part1)
+    - Test Code에서 Mock Object 사용하기
+    - Local Unit Test 전부를 한 번에 실행하는 방법
 2. [Android Studio에서 Unit Testing 적용하기 2](https://davidhyk.github.io/blog/applying-unit-testing-on-android-studio-part2)
-
+    - _ActivityTestRule 사용법을 중심으로_
 
 
 
