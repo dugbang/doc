@@ -1,22 +1,23 @@
 ## 정리되지 않는 사항
 
+* 데비안 설치; tasksel
+* [우분투에서 삼바 클라이언트로 네트워크 드라이브 연결(마운트)하기](https://www.wsgvet.com/bbs/board.php?bo_table=web&wr_id=26)
+
 
 **아래의 내용은 두잇 안드로이드 앱 개발 4.0 에서 자세히 확인가능**
 * [안드로이드에서 서버/클라이언트 소켓(Socket) 통신하기](http://pulsebeat.tistory.com/24)
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
-  - 좀 심도가 있어보인다. 정독이 필요할 듯함.
 
-* [Java - 엑셀 읽기/쓰기](http://boxfoxs.tistory.com/304)
-* [Java - poi를 이용한 엑셀파일 읽고 쓰기(메이븐)](http://jlblog.me/56)
-  - jar 라이브러리
-* [Java - poi를 이용한 엑셀파일 읽고 쓰기](http://javaslave.tistory.com/78)
-
-* [안드로이드 스튜디오 + Android Studio 외부 라이브러리 추가](http://ggari.tistory.com/422)
-* [Android Studio, 외부 java library (.JAR, .AAR) 추가](http://technote.kr/212)
 
 * [자바 객체 직렬화 방법](http://mainia.tistory.com/2103)
-* [JAVA 객체 직렬화](http://hyeonstorage.tistory.com/252)
+* [자바 객체 직렬화](http://hyeonstorage.tistory.com/252)
+
+* [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
+
+* [자바 - ServletFileUpload를 이용한 파일 업로드 & 다운로드](http://naleejang.tistory.com/84)
+  - 업로드의 경우 서버 권한에 대한 부분을 처리할 필요가 있다. _방법을 모르겠다...ㅠ_
+* [자바 - Url주소로 파일 다운로드하기](http://forum.falinux.com/zbxe/index.php?document_srl=565194&mid=lecture_tip)
 
 
 ### 자바 예외처리
