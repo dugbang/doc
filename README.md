@@ -1,5 +1,6 @@
 ## 정리되지 않는 사항
 
+
 * 데비안 설치; tasksel
 * [우분투에서 삼바 클라이언트로 네트워크 드라이브 연결(마운트)하기](https://www.wsgvet.com/bbs/board.php?bo_table=web&wr_id=26)
 
