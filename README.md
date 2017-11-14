@@ -15,9 +15,10 @@
 
 * [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
 
-* [자바 - ServletFileUpload를 이용한 파일 업로드 & 다운로드](http://naleejang.tistory.com/84)
-  - 업로드의 경우 서버 권한에 대한 부분을 처리할 필요가 있다. _방법을 모르겠다...ㅠ_
-* [자바 - Url주소로 파일 다운로드하기](http://forum.falinux.com/zbxe/index.php?document_srl=565194&mid=lecture_tip)
+
+* [자바 - TCP 파일전송](http://paduk.tistory.com/48)
+* [파이썬 - socket() 모듈을 사용해 TCP Server, client 생성](http://www.ylabs.co.kr/index.php?document_srl=9600&mid=board_dev_python&order_type=desc&sort_index=readed_count)
+* [Send a file through sockets in Python](https://stackoverflow.com/questions/9382045/send-a-file-through-sockets-in-python)
 
 
 ### 자바 예외처리
