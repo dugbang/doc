@@ -17,6 +17,8 @@
 * [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
 
 
+### 소켓을 이용한 파일 전송
+
 * [자바 - TCP 파일전송](http://paduk.tistory.com/48)
 * [파이썬 - socket() 모듈을 사용해 TCP Server, client 생성](http://www.ylabs.co.kr/index.php?document_srl=9600&mid=board_dev_python&order_type=desc&sort_index=readed_count)
 * [Send a file through sockets in Python](https://stackoverflow.com/questions/9382045/send-a-file-through-sockets-in-python)
@@ -55,4 +57,14 @@
 2. [unittest와 함께하는 파이썬 테스트](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 
 
+* [Python ABC(Abstract Base Class) 추상화 클래스](http://bluese05.tistory.com/61)
+* [파이썬 추상클래스(abstract class), 다형성(polymorphism)](https://wayhome25.github.io/cs/2017/04/10/cs-11/)
+* [38.6 추상 클래스 사용하기](https://dojang.io/mod/page/view.php?id=1087)
+
+
+* [Unit 43. 코루틴 사용하기](https://dojang.io/mod/page/view.php?id=1122)
+* [파이썬과 동시성에 대한 정리](http://hamait.tistory.com/833?category=79136)
+* [파이썬 Asyncio 를 이해하기 위한 여정](http://hamait.tistory.com/834)
+* [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
+    - 꼭 자세히 읽어보자!! _희망사항...ㅠ_
 
