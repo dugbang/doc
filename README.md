@@ -56,11 +56,13 @@
 1. [파이썬 TDD로 시작하기](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 2. [unittest와 함께하는 파이썬 테스트](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 
+----
 
 * [Python ABC(Abstract Base Class) 추상화 클래스](http://bluese05.tistory.com/61)
 * [파이썬 추상클래스(abstract class), 다형성(polymorphism)](https://wayhome25.github.io/cs/2017/04/10/cs-11/)
 * [38.6 추상 클래스 사용하기](https://dojang.io/mod/page/view.php?id=1087)
 
+----
 
 * [Unit 43. 코루틴 사용하기](https://dojang.io/mod/page/view.php?id=1122)
 * [파이썬과 동시성에 대한 정리](http://hamait.tistory.com/833?category=79136)
