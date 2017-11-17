@@ -10,6 +10,7 @@
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
 
+----
 
 * [자바 객체 직렬화 방법](http://mainia.tistory.com/2103)
 * [자바 객체 직렬화](http://hyeonstorage.tistory.com/252)
@@ -69,4 +70,18 @@
 * [파이썬 Asyncio 를 이해하기 위한 여정](http://hamait.tistory.com/834)
 * [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
     - 꼭 자세히 읽어보자!! _희망사항...ㅠ_
+
+----
+
+* [파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
+* [파이썬 - 클로저 (Closure)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-closure/)
+* [파이썬 - 퍼스트클래스 함수 (First Class Function)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%95%A8%EC%88%98-first-class-function/)
+* [Unit 44. 데코레이터 사용하기](https://dojang.io/mod/page/view.php?id=1131)
+
+----
+
+* [파이썬 - OOP Part 4. 클래스 메소드와 스태틱 메소드 (Class Method and Static Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-4-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%8A%A4%ED%83%9C%ED%8B%B1-%EB%A9%94%EC%86%8C%EB%93%9C-class-method-and-static-method/)
+* [파이썬 - OOP Part 5. 상속과 서브 클래스(Inheritance and Subclass)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-5-%EC%83%81%EC%86%8D%EA%B3%BC-%EC%84%9C%EB%B8%8C-%ED%81%B4%EB%9E%98%EC%8A%A4inheritance-and-subclass/)
+* [파이썬 - OOP Part 6. 매직 메소드 (Magic Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-6-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%86%8C%EB%93%9C-magic-method/)
+
 
