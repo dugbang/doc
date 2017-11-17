@@ -6,7 +6,6 @@
 
 
 **아래의 내용은 두잇 안드로이드 앱 개발 4.0 에서 자세히 확인가능**
-* [안드로이드에서 서버/클라이언트 소켓(Socket) 통신하기](http://pulsebeat.tistory.com/24)
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
 
