@@ -7,12 +7,15 @@
 
 **아래의 내용은 두잇 안드로이드 앱 개발 4.0 에서 자세히 확인가능**
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
+* [안드로이드 - Handler 사용법](http://itmining.tistory.com/16)
+* [안드로이드 쓰레드 구현 2번째 방법 post 메소드를 이용하자.](http://gakari.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%93%B0%EB%A0%88%EB%93%9C-%EA%B5%AC%ED%98%84-2%EB%B2%88%EC%A7%B8-%EB%B0%A9%EB%B2%95-post-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90?category=414830)
+    - 간단한 UI 갱신방법 참조
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
 
 ----
 
-* [자바 객체 직렬화 방법](http://mainia.tistory.com/2103)
-* [자바 객체 직렬화](http://hyeonstorage.tistory.com/252)
+* [자바 - 객체 직렬화 방법](http://mainia.tistory.com/2103)
+* [자바 - 객체 직렬화](http://hyeonstorage.tistory.com/252)
 
 * [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
 
