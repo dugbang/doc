@@ -1,22 +1,37 @@
 ## 정리되지 않는 사항
 
 
+* [널 어노테이션 사용](https://www.ibm.com/support/knowledgecenter/ko/SSRTLW_9.0.1/org.eclipse.jdt.doc.user/tasks/task-using_null_annotations.htm)
+    - 자바코드의 _@NonNull, @Nullable_ 를 설명
+* [Android Support Annotations 라이브러리를 활용한 결함 탐지](http://d2.naver.com/helloworld/8725603)
+    - 논문 수준의 설명서... 시간을 내서 차분히 읽어보자.
 * 데비안 설치; tasksel
 * [우분투에서 삼바 클라이언트로 네트워크 드라이브 연결(마운트)하기](https://www.wsgvet.com/bbs/board.php?bo_table=web&wr_id=26)
 
 
-**아래의 내용은 두잇 안드로이드 앱 개발 4.0 에서 자세히 확인가능**
+### 안드로이드 관련 정보
+
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
 * [안드로이드 - Handler 사용법](http://itmining.tistory.com/16)
-* [안드로이드 쓰레드 구현 2번째 방법 post 메소드를 이용하자.](http://gakari.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%93%B0%EB%A0%88%EB%93%9C-%EA%B5%AC%ED%98%84-2%EB%B2%88%EC%A7%B8-%EB%B0%A9%EB%B2%95-post-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90?category=414830)
+* [안드로이드 - 쓰레드 구현 2번째 방법 post 메소드를 이용하자.](http://gakari.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%93%B0%EB%A0%88%EB%93%9C-%EA%B5%AC%ED%98%84-2%EB%B2%88%EC%A7%B8-%EB%B0%A9%EB%B2%95-post-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90?category=414830)
     - 간단한 UI 갱신방법 참조
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
+* [안드로이드 - 서비스 바인딩 예제 (Bound Service)](http://bitsoul.tistory.com/149)
+
+
+### 안드로이드 게임만들기 예제
+
+* _4편은 안나온다...ㅠ_
+  - 참고서적; 나홀로 개발자를 위한 안드로이드 게임 프로그래밍 [ 이병옥 지음 ] [ 에이콘 ]
+
+1. [고스톱 게임 만들어 보기 제 1탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-1%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
+2. [고스톱 게임 만들어 보기 제 2탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-2%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
+3. [고스톱 게임 만들어 보기 제 3탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-3%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
 
 ----
 
 * [자바 - 객체 직렬화 방법](http://mainia.tistory.com/2103)
 * [자바 - 객체 직렬화](http://hyeonstorage.tistory.com/252)
-
 * [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
 
 
@@ -42,16 +57,6 @@
 
 * [SQLite 사용 예제(별도 DB 파일 사용할 경우)](http://snowdeer.info/android-sqlite-example-using-file/)
 * [SQL 데이터베이스에 데이터 저장](https://developer.android.com/training/basics/data-storage/databases.html?hl=ko)
-
-
-### 안드로이드 게임만들기 예제
-
-* _4편은 안나온다...ㅠ_
-  - 참고서적; 나홀로 개발자를 위한 안드로이드 게임 프로그래밍 [ 이병옥 지음 ] [ 에이콘 ]
-
-1. [고스톱 게임 만들어 보기 제 1탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-1%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
-2. [고스톱 게임 만들어 보기 제 2탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-2%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
-3. [고스톱 게임 만들어 보기 제 3탄 게임만들기 예제](http://ssscool.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4Android-Studio-%EA%B3%A0%EC%8A%A4%ED%86%B1-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EA%B8%B0-%EC%A0%9C-3%ED%83%84-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%98%88%EC%A0%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%95%EC%A2%8C)
 
 
 ### 파이썬에서 TDD 사용하기
@@ -85,5 +90,4 @@
 * [파이썬 - OOP Part 4. 클래스 메소드와 스태틱 메소드 (Class Method and Static Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-4-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%8A%A4%ED%83%9C%ED%8B%B1-%EB%A9%94%EC%86%8C%EB%93%9C-class-method-and-static-method/)
 * [파이썬 - OOP Part 5. 상속과 서브 클래스(Inheritance and Subclass)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-5-%EC%83%81%EC%86%8D%EA%B3%BC-%EC%84%9C%EB%B8%8C-%ED%81%B4%EB%9E%98%EC%8A%A4inheritance-and-subclass/)
 * [파이썬 - OOP Part 6. 매직 메소드 (Magic Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-6-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%86%8C%EB%93%9C-magic-method/)
-
 
