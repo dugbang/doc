@@ -53,41 +53,6 @@
 
 ### 안드로이드 SQLite 사용하기
 
-    - _안드로이드 플렛폼에서 실행하여야 함_
-
 * [SQLite 사용 예제(별도 DB 파일 사용할 경우)](http://snowdeer.info/android-sqlite-example-using-file/)
 * [SQL 데이터베이스에 데이터 저장](https://developer.android.com/training/basics/data-storage/databases.html?hl=ko)
-
-
-### 파이썬에서 TDD 사용하기
-
-1. [파이썬 TDD로 시작하기](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
-2. [unittest와 함께하는 파이썬 테스트](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
-
-----
-
-* [Python ABC(Abstract Base Class) 추상화 클래스](http://bluese05.tistory.com/61)
-* [파이썬 추상클래스(abstract class), 다형성(polymorphism)](https://wayhome25.github.io/cs/2017/04/10/cs-11/)
-* [38.6 추상 클래스 사용하기](https://dojang.io/mod/page/view.php?id=1087)
-
-----
-
-* [Unit 43. 코루틴 사용하기](https://dojang.io/mod/page/view.php?id=1122)
-* [파이썬과 동시성에 대한 정리](http://hamait.tistory.com/833?category=79136)
-* [파이썬 Asyncio 를 이해하기 위한 여정](http://hamait.tistory.com/834)
-* [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
-    - 꼭 자세히 읽어보자!! _희망사항...ㅠ_
-
-----
-
-* [파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
-* [파이썬 - 클로저 (Closure)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-closure/)
-* [파이썬 - 퍼스트클래스 함수 (First Class Function)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%95%A8%EC%88%98-first-class-function/)
-* [Unit 44. 데코레이터 사용하기](https://dojang.io/mod/page/view.php?id=1131)
-
-----
-
-* [파이썬 - OOP Part 4. 클래스 메소드와 스태틱 메소드 (Class Method and Static Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-4-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%8A%A4%ED%83%9C%ED%8B%B1-%EB%A9%94%EC%86%8C%EB%93%9C-class-method-and-static-method/)
-* [파이썬 - OOP Part 5. 상속과 서브 클래스(Inheritance and Subclass)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-5-%EC%83%81%EC%86%8D%EA%B3%BC-%EC%84%9C%EB%B8%8C-%ED%81%B4%EB%9E%98%EC%8A%A4inheritance-and-subclass/)
-* [파이썬 - OOP Part 6. 매직 메소드 (Magic Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-6-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%86%8C%EB%93%9C-magic-method/)
 
