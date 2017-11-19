@@ -1,6 +1,11 @@
 ## 정리되지 않는 사항
 
 
+* [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
+    - **Git에서는 버전기록이 필요한 시점에서는 언제든지 commit을 하고, 통합할만한 상태가 되었을 때만 push를 하면 됩니다.**
+* [Git을 이용한 버전 관리 【Git의 기본】](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+* [git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
+
 * [널 어노테이션 사용](https://www.ibm.com/support/knowledgecenter/ko/SSRTLW_9.0.1/org.eclipse.jdt.doc.user/tasks/task-using_null_annotations.htm)
     - 자바코드의 _@NonNull, @Nullable_ 를 설명
 * [Android Support Annotations 라이브러리를 활용한 결함 탐지](http://d2.naver.com/helloworld/8725603)
