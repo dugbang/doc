@@ -1,6 +1,7 @@
 ## 정리되지 않는 사항
 
 
+* [자바 프로그래머가 자주 실수 하는 10가지 - 1](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
 * [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
     - **Git에서는 버전기록이 필요한 시점에서는 언제든지 commit을 하고, 통합할만한 상태가 되었을 때만 push를 하면 됩니다.**
 * [Git을 이용한 버전 관리 【Git의 기본】](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
@@ -38,6 +39,7 @@
 * [자바 - 객체 직렬화 방법](http://mainia.tistory.com/2103)
 * [자바 - 객체 직렬화](http://hyeonstorage.tistory.com/252)
 * [자바 - Zip 압축 해제 모듈](http://nowonbun.tistory.com/321)
+* [Java - 자바 맵 클래스 HashMap 을 사용하는 방법](http://mainia.tistory.com/2237)
 
 
 ### 소켓을 이용한 파일 전송
