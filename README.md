@@ -1,6 +1,9 @@
 ## 정리되지 않는 사항
 
 
+* [Google 자연어 처리 오픈소스 SyntaxNet 공개](https://cpuu.postype.com/post/166917/)
+    - 공개된 깃허브에 접속되지 않음.
+* [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
 * [자바 프로그래머가 자주 실수 하는 10가지 - 1](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
 * [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
     - **Git에서는 버전기록이 필요한 시점에서는 언제든지 commit을 하고, 통합할만한 상태가 되었을 때만 push를 하면 됩니다.**
@@ -23,7 +26,8 @@
     - 간단한 UI 갱신방법 참조
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
 * [안드로이드 - 서비스 바인딩 예제 (Bound Service)](http://bitsoul.tistory.com/149)
-
+* [안드로이드 에뮬레이터 BlueStacks 루팅 방법](http://chitchat2014.blogspot.kr/2014/11/bluestacks.html)
+* [QEMU(vexpress a9) 이미지 빌드 및 booting 방법](https://github.com/iamroot11B/linux_stable_3_14_4/wiki/QEMU(vexpress-a9)-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B9%8C%EB%93%9C-%EB%B0%8F-booting-%EB%B0%A9%EB%B2%95)
 
 ### 안드로이드 게임만들기 예제
 
