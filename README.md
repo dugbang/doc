@@ -1,6 +1,7 @@
 ## 정리되지 않는 사항
 
 
+* [파이썬으로 웹 크롤러 만들기](https://github.com/REMitchell/python-scraping)
 * [Google 자연어 처리 오픈소스 SyntaxNet 공개](https://cpuu.postype.com/post/166917/)
     - 공개된 깃허브에 접속되지 않음.
 * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
