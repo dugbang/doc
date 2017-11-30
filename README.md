@@ -1,6 +1,8 @@
 ## 정리되지 않는 사항
 
 
+* [openCSV를 이용한 CSV 파일 읽고 쓰기](http://wildpup.cafe24.com/archives/82)
+    - 안드로이드에서 실행이 가능한지 확인해야 함.
 * [파이썬으로 웹 크롤러 만들기](https://github.com/REMitchell/python-scraping)
 * [Google 자연어 처리 오픈소스 SyntaxNet 공개](https://cpuu.postype.com/post/166917/)
     - 공개된 깃허브에 접속되지 않음.
@@ -17,18 +19,21 @@
     - 논문 수준의 설명서... 시간을 내서 차분히 읽어보자.
 * 데비안 설치; tasksel
 * [우분투에서 삼바 클라이언트로 네트워크 드라이브 연결(마운트)하기](https://www.wsgvet.com/bbs/board.php?bo_table=web&wr_id=26)
+* [QEMU(vexpress a9) 이미지 빌드 및 booting 방법](https://github.com/iamroot11B/linux_stable_3_14_4/wiki/QEMU(vexpress-a9)-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B9%8C%EB%93%9C-%EB%B0%8F-booting-%EB%B0%A9%EB%B2%95)
 
 
 ### 안드로이드 관련
 
+* [안드로이드 - 웹서버에 있는 파일 다운로드 하기](http://motpool.tistory.com/35)
 * [안드로이드 - Thread, Handler, Looper를 통한 백그라운드 처리](http://itmining.tistory.com/5)
 * [안드로이드 - Handler 사용법](http://itmining.tistory.com/16)
 * [안드로이드 - 쓰레드 구현 2번째 방법 post 메소드를 이용하자.](http://gakari.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%93%B0%EB%A0%88%EB%93%9C-%EA%B5%AC%ED%98%84-2%EB%B2%88%EC%A7%B8-%EB%B0%A9%EB%B2%95-post-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90?category=414830)
     - 간단한 UI 갱신방법 참조
 * [안드로이드 - 스레드 통신](http://androidyongyong.tistory.com/6)
 * [안드로이드 - 서비스 바인딩 예제 (Bound Service)](http://bitsoul.tistory.com/149)
-* [안드로이드 에뮬레이터 BlueStacks 루팅 방법](http://chitchat2014.blogspot.kr/2014/11/bluestacks.html)
-* [QEMU(vexpress a9) 이미지 빌드 및 booting 방법](https://github.com/iamroot11B/linux_stable_3_14_4/wiki/QEMU(vexpress-a9)-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B9%8C%EB%93%9C-%EB%B0%8F-booting-%EB%B0%A9%EB%B2%95)
+* [안드로이드 - 에뮬레이터 BlueStacks 루팅 방법](http://chitchat2014.blogspot.kr/2014/11/bluestacks.html)
+* [안드로이드 - 클라이언트/서버 소켓 프로그램 구현](http://programmingfbf7290.tistory.com/entry/2-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
+
 
 ### 안드로이드 게임만들기 예제
 
