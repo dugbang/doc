@@ -1,6 +1,9 @@
 ## 정리되지 않는 사항
 
 
+* [자작NAS – 서버와 연결할 도메인 주소 만들기](https://blog.xianchoi.kr/791)
+
+
 * [openCSV를 이용한 CSV 파일 읽고 쓰기](http://wildpup.cafe24.com/archives/82)
     - 안드로이드에서 실행이 가능한지 확인해야 함.
 * [파이썬으로 웹 크롤러 만들기](https://github.com/REMitchell/python-scraping)
