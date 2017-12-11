@@ -2,7 +2,8 @@
 
 
 * [자작NAS – 서버와 연결할 도메인 주소 만들기](https://blog.xianchoi.kr/791)
-
+* [Debian 9: Install XRDP for remote desktop server](https://www.hiroom2.com/2017/06/19/debian-9-install-xrdp/)
+    - tigervnc-standalone-server 를 추가로 설치
 
 * [openCSV를 이용한 CSV 파일 읽고 쓰기](http://wildpup.cafe24.com/archives/82)
     - 안드로이드에서 실행이 가능한지 확인해야 함.
